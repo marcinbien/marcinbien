@@ -1,5 +1,5 @@
 ### Hi there, I'm Marcin. 👋
-I'm a software developer 👨🏻‍💻.
+I'm a software developer 💻
 
 
 ![Twitter](https://github.com/marcinbien/marcinbien/raw/master/twitter.svg) [@MarcinBien](https://twitter.com/MarcinBien)
