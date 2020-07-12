@@ -1,9 +1,12 @@
 ### Hi there, I'm Marcin. 👋
 I'm a software developer.
+
+
+![Twitter](twitter.svg)
 <!--
 **marcinbien/marcinbien** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-![Twitter](twitter.svg)
+
 
 Here are some ideas to get you started:
 
