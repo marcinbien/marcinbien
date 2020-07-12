@@ -2,7 +2,7 @@
 I'm a software developer.
 
 
-![Twitter](twitter.svg)
+![Twitter](twitter.svg) [@MarcinBien](https://twitter.com/MarcinBien)
 <!--
 **marcinbien/marcinbien** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
