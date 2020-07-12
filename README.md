@@ -2,9 +2,9 @@
 I'm a software developer.
 
 
-![Twitter](twitter.svg) [@MarcinBien](https://twitter.com/MarcinBien)
+![Twitter](https://github.com/marcinbien/marcinbien/raw/master/twitter.svg) [@MarcinBien](https://twitter.com/MarcinBien)
 
-![LinkedIn](linkedin.svg) [https://www.linkedin.com/in/marcinbienpl/](https://www.linkedin.com/in/marcinbienpl/)
+![LinkedIn](https://github.com/marcinbien/marcinbien/raw/master/linkedin.svg) [https://www.linkedin.com/in/marcinbienpl/](https://www.linkedin.com/in/marcinbienpl/)
 
 <!--
 **marcinbien/marcinbien** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
